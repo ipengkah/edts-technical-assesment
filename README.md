@@ -1,3 +1,4 @@
+# a simple to do app
 # How to run the application
 1. create ***edts*** databse in you local
 2. run EdtsApplication.class (like similiar spring boot to run)
@@ -12,6 +13,10 @@
    - can search available concert
    - can book a ticket according to selected concert
      - when a ticket succes to book the available ticket will be reduce
+4 . How would you structure and abstract error handling?
+    Use custom exception classes to handle specific error scenarios.
+5 . i use AWS S3 to connect an external service
+
    
 
 # Test Result
@@ -50,6 +55,13 @@
     
     <img width="511" alt="image" src="https://github.com/ipengkah/edts-technical-assesment/assets/36947684/6518d7bd-78c8-42e4-ab6e-c5f7eb6f9d49">
     
-  
+  - AWS S3 Result
+
+    <img width="946" alt="postman aws upload" src="https://github.com/ipengkah/to-do-app/assets/36947684/a3b6db0e-21b8-416c-a981-ccb8720283cb">
+
+    <img width="932" alt="aws upload" src="https://github.com/ipengkah/to-do-app/assets/36947684/0ce43ca0-a955-4dba-8063-2364ad5b1869">
+
+    
+    
 **THANK YOU :)**
 
