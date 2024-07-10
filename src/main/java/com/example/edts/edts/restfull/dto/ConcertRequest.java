@@ -25,8 +25,7 @@ public class ConcertRequest {
     @Size(max = 1000)
     @NotBlank
     private String venue;
-
-
+    
     private LocalDateTime dateTime;
 
     private BigDecimal ticketPrice;
